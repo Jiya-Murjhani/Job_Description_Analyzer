@@ -27,7 +27,7 @@ Below is a Job Description and a Resume. Your job is to:
 4. Give a match score out of 100 based on matched skills
 5. For each missing skill, give one specific, actionable suggestion
 
-STRICT RULES:
+STRICT RULES(Read all of these carefully before responding and follow them exactly):
 1. Return valid JSON only. No explanation. No preamble. No markdown. Only raw JSON.
 2. Only extract skills explicitly stated in the Job Description. Never invent or infer.
 3. If fewer than 10 skills are present in the JD, extract only what exists — do not pad the list.
